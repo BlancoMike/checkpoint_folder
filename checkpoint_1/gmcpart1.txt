@@ -1,0 +1,31 @@
+    Name: Odetunde Tobiloba Michael
+
+Section 1
+
+What You're Aiming For?
+My aim for this course is to become a full stack developer to operate and build valuable tools and and applications to further better human day to day interactions.and on a personal level i want to use this skill to dive into a field i have much interest in to improve my day to day life.
+Web Development Basics
+Web development creates and maintains websites, enabling global access to information, business growth, user interaction, and innovation, making it essential for a strong online presence.
+HTML Knowledge
+		Yes, HTML stands for HyperText Markup Language. Its primary purpose in web development is to structure and organize content on a webpage, defining elements like headings, paragraphs, links, images, and more.
+
+
+Section 2
+		CSS Understanding
+		Yes, CSS stands for Cascading Style Sheets. In web development, CSS is used to control the visual appearance of a webpage, including layout, colors, fonts, and spacing, allowing developers to create aesthetically pleasing and consistent designs across multiple pages.
+
+	Section 3
+		Introduction to JavaScript:
+		Yes, JavaScript is a programming language that adds interactivity to websites, allowing for dynamic features like buttons, animations, and real-time updates, which make webpages more engaging and user-friendly.
+Section 4
+	React and Node.js Awareness
+		No, I'm not experienced with this but I do have an idea about them from reading and it simply is that React is a JavaScript library for building dynamic UIs with reusable components, primarily for front-end development. Node.js is a JavaScript runtime for building scalable, server-side applications, often used for APIs and real-time services.
+
+Section 5
+	Learning intentions
+	As said earlier in my Aim my intentions are simply to implement what i learn here to build real life solutions and build application to easy our daily use of the computer and also implement my lessons to my real life problems
+	
+
+
+
+
